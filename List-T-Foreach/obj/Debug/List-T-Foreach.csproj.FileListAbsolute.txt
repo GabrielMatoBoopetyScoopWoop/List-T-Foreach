@@ -1,0 +1,7 @@
+C:\Users\Mato\source\repos\List-T-Foreach\List-T-Foreach\bin\Debug\List-T-Foreach.exe.config
+C:\Users\Mato\source\repos\List-T-Foreach\List-T-Foreach\bin\Debug\List-T-Foreach.exe
+C:\Users\Mato\source\repos\List-T-Foreach\List-T-Foreach\bin\Debug\List-T-Foreach.pdb
+C:\Users\Mato\source\repos\List-T-Foreach\List-T-Foreach\obj\Debug\List-T-Foreach.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\List-T-Foreach\List-T-Foreach\obj\Debug\List-T-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\List-T-Foreach\List-T-Foreach\obj\Debug\List-T-Foreach.exe
+C:\Users\Mato\source\repos\List-T-Foreach\List-T-Foreach\obj\Debug\List-T-Foreach.pdb
